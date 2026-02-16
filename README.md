@@ -1,3 +1,3 @@
 # Perceived pain classification task
 ## Artificial Neural Networks and Deep Learning (AN2DL) 1st challenge (2025/26)
-Group composed of Antonino Ciancimino, Francesco Caracciolo, Francesco Mazzola Nicola Tummolo
+Group composed of Antonino Ciancimino, Francesco Caracciolo, Francesco Mazzola, Nicola Tummolo
